@@ -13,8 +13,7 @@ export function Hero() {
         </p>
         <h1 className="mt-10 max-w-6xl text-5xl font-semibold tracking-[-0.075em] text-[#17130f] sm:text-7xl lg:text-[7.5rem] lg:leading-[0.92]">
           Researcher and builder between{" "}
-          <AnimatedHighlight>sociology</AnimatedHighlight> and computer
-          science.
+          <AnimatedHighlight>Social Researcher</AnimatedHighlight> with Experience in Technology, Operations, and International Education
         </h1>
         <div className="mt-12 grid gap-8 border-t border-black/10 pt-8 lg:grid-cols-[minmax(0,42rem)_auto] lg:items-start">
           <div className="grid max-w-2xl gap-4 text-base leading-7 text-stone-700 sm:text-lg sm:leading-8">
