@@ -11,7 +11,7 @@ export function Hero() {
         <p className="font-mono text-[11px] uppercase tracking-[0.24em] text-stone-700">
           {intro.name} / {intro.location}
         </p>
-        <h1 className="mt-10 max-w-6xl text-5xl font-semibold tracking-[-0.075em] text-[#17130f] sm:text-7xl lg:text-[7.5rem] lg:leading-[0.92]">
+        <h1 className="mt-10 max-w-6xl text-5xl font-semibold tracking-[-0.075em] text-[#17130f] sm:text-7xl lg:text-[5rem] lg:leading-[0.92]">
           <AnimatedHighlight>Social Researcher</AnimatedHighlight> with Experience in Technology, Operations, and International Education
         </h1>
         <div className="mt-12 grid gap-8 border-t border-black/10 pt-8 lg:grid-cols-[minmax(0,42rem)_auto] lg:items-start">
